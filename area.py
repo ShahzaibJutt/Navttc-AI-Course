@@ -11,3 +11,4 @@ def areaOfSphere(r):
 def areaOfTriangle(b, h):
     area = 1/2 * (b*h)
     return area
+    

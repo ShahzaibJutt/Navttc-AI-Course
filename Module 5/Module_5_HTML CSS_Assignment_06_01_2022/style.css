@@ -1,0 +1,107 @@
+body{
+    display: flex;
+    height: 100vh;
+    border: 2px solid aqua;
+    font-family: 'Roboto';font-size: 22px;
+}
+.sidebar {
+    width: 20vw;
+    background:  #30424D;
+}
+.maindiv{
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.discounts{
+    width: 80vw;
+    height: 10vh;
+    background-color: #C4C4C4;
+}
+.bottombar{
+    width: 80vw;
+    height: 3.96vh;
+    background: #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.discountsButton{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    height: 10vh;
+    border-bottom: 1px solid #000000;
+}
+.content{
+    width: 80vw;
+    height: 76.04vh;
+    display: flex;
+}
+
+.navbar{
+    margin-top: 2px;
+    margin-left: 2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    /* line-height: 23px; */
+
+    color: #000000;
+}
+
+.heading{
+    margin-left: 2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+.discountsText{
+    margin-left: 2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
+
+.discountsb1{
+    margin-right: 2vw;
+    background: #30424C;
+    border-radius: 20px;
+    width: 16vw;
+    height: 7vh;
+    text-align: center;
+    margin-top: 1.2vh;
+    padding-bottom: 0.8vh;
+}
+
+.globaltext{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+
+
+.content1{
+    width:40vw;
+    border: 1px black solid;
+}
+
+.content2{
+    width: 40vw;
+    border: 1px black solid;
+}

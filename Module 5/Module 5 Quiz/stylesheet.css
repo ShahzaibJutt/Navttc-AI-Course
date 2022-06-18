@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  /* margin: 0;
+  padding: 0; */
+  /* box-sizing: border-box; */
+  font-family: 'Poppins',sans-serif;
+}
+
+body {
+    background-image: url('./Assets/pink-background.jpg');
+    background-repeat: no-repeat;
+}
+
+#username, #passwd,#login{
+    border-radius: 25px;
+    padding: 8px;
+    display: block;
+    margin-top: 20px;
+    width: 80%
+}
+
+#remember{
+    margin-top: 20px;
+}
+
+#login{
+    width: 85%;
+}
+
+#login{
+    background-color: rgb(10, 10, 82);
+    color: white;
+    font-size: large;
+}
+
+.psw{
+    text-align: left;
+    margin-top: 0px;
+}
+
+#container1 {
+    position: fixed;
+    width: 300px;
+    height: 450px;
+    top: 40%;
+    left: 40%;
+    margin-top: -140px;
+    margin-left: -170px;
+    background: #cabcc98a;
+    border-radius: 25px;
+    padding: 20px;
+    color: rgb(10, 10, 82);
+    }
+
+
+
+.row{
+    align-items: center;
+}

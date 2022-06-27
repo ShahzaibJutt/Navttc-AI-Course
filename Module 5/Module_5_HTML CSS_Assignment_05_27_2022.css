@@ -1,15 +1,16 @@
-.tableStyle{
-    border: 2px solid black;
-    width: 80%;
-    text-align: left;
-    border-collapse: collapse;
+.tableStyle {
+	border: 2px solid black;
+	width: 80%;
+	text-align: left;
+	border-collapse: collapse;
 }
 
-th, td {
-    border: 2px solid black;
-  }
+th,
+td {
+	border: 2px solid black;
+}
 
-img{
-    height: 200px; 
-    width: 200px;
+img {
+	height: 200px;
+	width: 200px;
 }

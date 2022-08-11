@@ -1,0 +1,15 @@
+.mainBody{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.m-b-20{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .mainBody{
+        width: 90%;
+    }
+}

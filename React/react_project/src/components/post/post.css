@@ -1,0 +1,9 @@
+.main{
+	background-color: white;
+	border-radius: 10px;
+}
+
+.flex{
+	display: flex;
+	align-items: center;
+}

@@ -1,0 +1,47 @@
+.main {
+    background-color: white;
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+    margin: 20px 0;
+    height: 80%;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+}
+
+.m-r-10{
+    margin-right: 10px;
+}
+
+.blackBox{
+    height: 150px;
+    background-color: black;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.editButton{
+    border: none;
+    background-color: #0085FF;
+    color: white;
+}
+
+.deleteButton{
+    border: none;
+    background-color: rgb(124, 20, 20);
+    color: white;
+}
+
+.button {
+    padding: 10px 20px;
+    border-radius: 10px;
+}

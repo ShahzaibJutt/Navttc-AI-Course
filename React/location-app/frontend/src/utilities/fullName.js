@@ -1,0 +1,1 @@
+export const getFullName = (fName, lName) => `${fName} ${lName}`;
